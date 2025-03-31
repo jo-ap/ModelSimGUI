@@ -1,0 +1,20 @@
+name = "ModelSimGUI"
+uuid = "e0473dbe-8d5a-44a7-9a9d-54960a06ee60"
+authors = ["jo-ap johannes.apelt@stud.uni-greifswald.de"]
+version = "0.1.0"
+
+[deps]
+Catalyst = "479239e8-5488-4da2-87a7-35f2df7eef83"
+ColorSchemes = "35d6a980-a343-548e-a6ea-1d62b119f2f4"
+DifferentialEquations = "0c46a032-eb83-5123-abaf-570d42b7fbaa"
+LaTeXStrings = "b964fa9f-0449-5b57-a5c2-d3ea65f4040f"
+Latexify = "23fbe1c1-3f47-55db-b15f-69d7ec21a316"
+Makie = "ee78f7c6-11fb-53f2-987a-cfe4a2b5a57a"
+
+[compat]
+Catalyst = "14"
+ColorSchemes = "3"
+DifferentialEquations = "7"
+LaTeXStrings = "1"
+Latexify = ">= 0.16"
+Makie = ">= 0.22"

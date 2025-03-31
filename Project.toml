@@ -12,9 +12,9 @@ Latexify = "23fbe1c1-3f47-55db-b15f-69d7ec21a316"
 Makie = "ee78f7c6-11fb-53f2-987a-cfe4a2b5a57a"
 
 [compat]
-Catalyst = "14"
+Catalyst = "13"
 ColorSchemes = "3"
 DifferentialEquations = "7"
 LaTeXStrings = "1"
-Latexify = ">= 0.16"
+Latexify = ">= 0.15"
 Makie = ">= 0.22"
